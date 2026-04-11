@@ -1,0 +1,4 @@
+risk_thresholds:
+  alert: 30
+  containment: 60
+  lockdown: 90
