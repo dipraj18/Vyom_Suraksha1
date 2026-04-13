@@ -178,3 +178,5 @@ This project is licensed under the **MIT License**.
 ---
 
 > ⚡ *Vyom_Suraksha is a prototype framework designed for learning and demonstration of defensive cybersecurity concepts.*
+
+"The system may generate alerts during legitimate high-resource activities such as screen recording. This reflects real-world behavior where distinguishing between benign and malicious anomalies requires advanced context-aware analysis."
